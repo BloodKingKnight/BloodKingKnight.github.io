@@ -3,11 +3,11 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Wugang
+first_name: Ningrui
 middle_name: 
-last_name: MENG
-email: mengwugang@gatech.edu
-keywords: MENG Wugang, Wugang Meng  # add your own keywords or leave empty
+last_name: Zhou
+email: nzhou67@gatech.edu
+keywords: Zhou Ningrui, Ningrui Zhou  # add your own keywords or leave empty
 
 lang: en # the main language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🤖  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -65,7 +65,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: guaMass # your GitHub user name
+github_username: BloodKingKnight # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
