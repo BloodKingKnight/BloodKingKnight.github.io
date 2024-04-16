@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://znr.github.io/简/sitemap.xml
+Sitemap: https://BloodKingKnight.github.io/简/sitemap.xml
