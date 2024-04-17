@@ -38,7 +38,7 @@
       institution: The University of Auckland, Auckland, New Zealand
       year: 2018.07-2019.07
       description: 
-        - Award: Outstanding Achievement * 5, UOA Alumin Award for Study Abroad,2019
+        - Award： Outstanding Achievement * 5, UOA Alumin Award for Study Abroad,2019
 
 
 - title: Work Experience
@@ -59,7 +59,7 @@
       description:
         # - Responsible for testing courses homework coding.
         - Participate on Bicycle Friendly Assessment project.
-        - Design python scripts to crawl map data from Techs
+        # - Design python scripts to crawl map data from Techs
         - Lead a team to design Street View&Bicycle Parking data collections Wechat App.
         - Design Object Detection and Segmentation model to identify bicycles in crowded Sceens
         # - title: Courses
@@ -73,7 +73,9 @@
         # - Participate in <i>*** intelligent perception system</i> program.
         # - Independently responsible for intelligent unmanned system sensing and navigation module development.
         # - The system was applied to a self-developed unmanned driving platform, which was successfully delivered to the Science and Technology Commission of the Military Commission by the end of 2022.
-        - 
+        - Develope and Update Huawei clock PDV data analysis tool
+        - Research on Huawei next generation enterprise network 
+        - Research on Huawei low-cost clock algorithm
     - title: Algorithm Engineer
       institution: Intelligent Dept, Muyuan Group
       year: 2023.03-2023.06
@@ -81,7 +83,30 @@
         # - Participate in <i>*** intelligent perception system</i> program.
         # - Independently responsible for intelligent unmanned system sensing and navigation module development.
         # - The system was applied to a self-developed unmanned driving platform, which was successfully delivered to the Science and Technology Commission of the Military Commission by the end of 2022.
-        - 
+        - Design Muyuan auto-driving car BEV preception algorithm
+        - Design localizing algorithm based on Kalman Filter/Partical Filter with multi-modal data
+        - Design camera dirt detection algorithm
+    - title: Software Engineer
+      institution: User Growth Dept, TAL Education Group
+      year: 2021.06-2022.02
+      description:
+        # - Participate in <i>*** intelligent perception system</i> program.
+        # - Independently responsible for intelligent unmanned system sensing and navigation module development.
+        # - The system was applied to a self-developed unmanned driving platform, which was successfully delivered to the Science and Technology Commission of the Military Commission by the end of 2022.
+        - Responsible for Office Automation project
+        - Develope Wechat teachers and students message communication system
+        - Design database core info distill tool
+        - Design RFM bussiness model for evaluating customers level
+    - title: Algorithm Engineer && Manager
+      institution: Technique Dept, Changsha Qizhen Network Technology Co.,Ltd
+      year: 2020.06-2021.05
+      description:
+        # - Participate in <i>*** intelligent perception system</i> program.
+        # - Independently responsible for intelligent unmanned system sensing and navigation module development.
+        # - The system was applied to a self-developed unmanned driving platform, which was successfully delivered to the Science and Technology Commission of the Military Commission by the end of 2022.
+        - Responsible for development and test of E-Seal system, noise video filter algorithm design. The system is adopted by different goverment departments and awarded Hunan province Science and Technology Progress Award
+
+    
 
 # - title: Projects
 #   type: time_table
