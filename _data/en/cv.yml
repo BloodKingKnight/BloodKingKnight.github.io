@@ -2,58 +2,86 @@
   type: map
   contents:
     - name: Full Name
-      value: MENG, Wugang
+      value: Zhou, Ningrui
     - name: Date of Birth
-      value: 24th July 1997
+      value: 2nd August 1998
     - name: Languages
-      value: Chinese(native), English(fluent), Cantonese(beginner)
+      value: Chinese(native), English(fluent)
 
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Electronic and Computer Engineering
-      institution: Hong Kong University of Science and Technology, Hong Kong, China
-      year: 2023-now
-      description:
-        - Advised by <a href="https://ece.hkust.edu.hk/eefumin">Prof. Fumin ZHANG</a>
+    # - title: Ph.D. in Electronic and Computer Engineering
+    #   institution: Hong Kong University of Science and Technology, Hong Kong, China
+    #   year: 2023-now
+    #   description:
+    #     - Advised by <a href="https://ece.hkust.edu.hk/eefumin">Prof. Fumin ZHANG</a>
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
         #     - Sub-description 2.
     - title: M.S. in Computer Science
       institution: Georgia Institute of Technology, Atlanta, U.S.A
-      year: 2021-2023
+      year: 2022.08-2023.12
       description:
-        - GPA：3.9 (4.0 scale) 
+        - GPA：3.67 (4.0 scale)
+        - Award：GRA Full Scholarship of Computer Science, Second Prize of Huawei Hackathon Competition 
         - Machine Learning Specialization
-    - title: B.Eng. in Electronic and Information Engineering
-      institution: Harbin Institute of Technology, Harbin, China
-      year: 2015-2019
+        - Advised by <a href="https://faculty.gtsi.edu.cn/en/node/3137">Prof. Mengmeng Liu</a>
+    - title: B.Eng. in Software Engineering
+      institution: Harbin Engineering University, Harbin, China
+      year: 2016.08-2020.07
       description:
-        - Thesis：<i>Millimeter wave radar SLAM based on ROS</i>
-        - Advised by <a href="https://comm.hdu.edu.cn/_s70/2023/0216/c2866a241809/page.psp">Prof. Yinan ZHAO</a>
+        - Thesis： <i>Study on Analysis Method of Credit Card Default Risk Based on Supervised Learning</i>
+        - Advised by Dr. Zebao Zhang
+    - title: Exchange Student of Computer Science
+      institution: The University of Auckland, Auckland, New Zealand
+      year: 2018.07-2019.07
+      description: 
+        - Award: Outstanding Achievement * 5, UOA Alumin Award for Study Abroad,2019
 
 
 - title: Work Experience
   type: time_table
   contents:
-    - title: Peer Tutor
+    # - title: Algorithm Engineer
+    # institution: Georgia Tech Shenzhen Institute, Georgia Institute of Technology
+    # year: 2023SP, 2023SU, 2023FA
+    # description:
+    #   - Responsible for testing courses homework coding.
+    #   - Researching on Bicycle Friendly Assessment project.
+    #   - Design python scripts to crawl map data from Techs
+    #   - Leading a team to design Street View&Bicycle Parking data collections Wechat App.
+    #   - Design Object Detection and Segmentation model to identify bicycles in crowded Sceens
+    - title: Graduate Research Assistant
       institution: Georgia Tech Shenzhen Institute, Georgia Institute of Technology
-      year: 2022SP-2022FA
+      year: 2023SP, 2023SU, 2023FA
       description:
-        - Responsible for testing and deploying the automatic scoring scripts on GradeScope.
-        - Holding office hours weekly.
-        - title: Courses
-          contents:
-            - CS7638 AI for Robotics.
-            - CS6515 Graduate Algorithm.
-    - title: Engineer
-      institution: Wireless location and navigation Laboratory, Harbin Institute of Technology（Weihai）
-      year: 2019-2021
+        # - Responsible for testing courses homework coding.
+        - Participate on Bicycle Friendly Assessment project.
+        - Design python scripts to crawl map data from Techs
+        - Lead a team to design Street View&Bicycle Parking data collections Wechat App.
+        - Design Object Detection and Segmentation model to identify bicycles in crowded Sceens
+        # - title: Courses
+        #   contents:
+        #     - CS7638 AI for Robotics.
+        #     - CS6515 Graduate Algorithm.
+    - title: Algorithm Engineer
+      institution: Clock Laboratory, ICT Data Communication Dept, Huawei Group
+      year: 2023.07-2023.12
       description:
-        - Participate in <i>*** intelligent perception system</i> program.
-        - Independently responsible for intelligent unmanned system sensing and navigation module development.
-        - The system was applied to a self-developed unmanned driving platform, which was successfully delivered to the Science and Technology Commission of the Military Commission by the end of 2022.
+        # - Participate in <i>*** intelligent perception system</i> program.
+        # - Independently responsible for intelligent unmanned system sensing and navigation module development.
+        # - The system was applied to a self-developed unmanned driving platform, which was successfully delivered to the Science and Technology Commission of the Military Commission by the end of 2022.
+        - 
+    - title: Algorithm Engineer
+      institution: Intelligent Dept, Muyuan Group
+      year: 2023.03-2023.06
+      description:
+        # - Participate in <i>*** intelligent perception system</i> program.
+        # - Independently responsible for intelligent unmanned system sensing and navigation module development.
+        # - The system was applied to a self-developed unmanned driving platform, which was successfully delivered to the Science and Technology Commission of the Military Commission by the end of 2022.
+        - 
 
 # - title: Projects
 #   type: time_table
